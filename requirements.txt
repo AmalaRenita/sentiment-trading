@@ -1,0 +1,12 @@
+psycopg2-binary
+sqlalchemy
+pandas
+numpy
+transformers
+torch
+scikit-learn
+jupyter
+python-dotenv
+streamlit
+fastapi
+uvicorn
